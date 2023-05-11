@@ -15,7 +15,7 @@
 - git status
 - git commit -m "This is the commit message"
 - git status (check commit)
-- git log --online
+- git log --online (view the commit list)
 - git push origin (push to remote)
 - git push --set-upstream origin main (set the default auto branch)
 

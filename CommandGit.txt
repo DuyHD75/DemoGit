@@ -1,0 +1,21 @@
+- git config
+- git config --global --list
+- git config --global user.name"HoDucDuy"
+- git config --global user.email"hoduy@gmail.com"
+
+* Remove Config
+- git config --global --unset user.name
+- git config --global --unset user.email
+
+
+* Create Repository for the project 
+- git init (the forder container the project) /  (cd /d switch the storage)
+- git remote add orgin <Link git hub>
+- git add .
+- git status
+- git commit -m "This is the commit message"
+- git status (check commit)
+- git log --online
+- git push origin (push to remote)
+- git push --set-upstream origin main (set the default auto branch)
+

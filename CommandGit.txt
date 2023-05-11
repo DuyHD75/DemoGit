@@ -11,6 +11,7 @@
 * Create Repository for the project 
 - git init (the forder container the project) /  (cd /d switch the storage)
 - git remote add orgin <Link git hub>
+- git remote rename oldname newname (change the name of the remote)
 - git add .
 - git status
 - git commit -m "This is the commit message"

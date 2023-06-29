@@ -1,8 +1,8 @@
 code this here is of Duy
-heading
-this is the Duy part
+toi la duy
+
 this is the nghia part
 
 
 <h1>this is the heading tag of Duy 1</h1>
-<a>this is the a tag nghia </a>
+<a>this is the a tag nghia part 2 </a>

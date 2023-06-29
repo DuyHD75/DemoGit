@@ -3,4 +3,6 @@ heading
 this is the Duy part
 this is the nghia part
 
+
+<h1>this is the heading tag of Duy 1</h1>
 <a>this is the a tag nghia </a>

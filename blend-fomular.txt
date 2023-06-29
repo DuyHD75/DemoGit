@@ -2,4 +2,4 @@ Blend Fomular
 ===
 
 100% Arabica
-this is the content of Duy 
+this is the content of Duy DEV
